@@ -7,11 +7,11 @@ Here are some quick stats about my github account!
 <!-- [My GitHub stats](https://github-readme-stats.vercel.app/api?username=riyan-datalyca) -->
 
 <a href="https://github.com/riyan-dcosta">
- <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/?username=riyan-dcosta&&theme=transparent&count_private=true&hide_title=true"/>
+ <img height=400 src="https://github-readme-stats.vercel.app/api/?username=riyan-dcosta&&theme=transparent&count_private=true&hide_title=true"/>
 </a>
 </n>
 <a href="https://github.com/riyan-dcosta">
- <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan-dcosta&show_icons=true&&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
+ <img height=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan-dcosta&show_icons=true&&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
 </a>
 
  
