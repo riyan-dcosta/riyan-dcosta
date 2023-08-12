@@ -3,6 +3,8 @@
 
 Here are some quick stats about my github account!
 
+[More About Me!](https://github.com/riyan-dcosta)
+
 ![](https://komarev.com/ghpvc/?username=riyan-datalyca&style=flat&label=Views)
 
 <!-- [My GitHub stats](https://github-readme-stats.vercel.app/api?username=riyan-datalyca) -->
