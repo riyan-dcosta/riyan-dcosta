@@ -1,0 +1,31 @@
+:root{
+    /* Christmas 01 */
+    --christmas-maroon : rgb(118, 26, 26);
+    --christmas-red : rgb(193, 49, 49);
+    --christmas-green:rgb(167, 205, 120);
+    --christmas-yellow:rgb(255, 242, 121);
+
+    --primary-color : var(--christmas-maroon);
+    --secondary-color: var(--christmas-green);
+    --tertiary-color: var(--christmas-yellow);
+    --error-color:var(--christmas-red);
+    
+    
+}
+
+*{
+    background-color: var(--primary-color);
+    font-family:"Arial";
+}
+
+.christmas-border{
+    border: 5px solid var(--secondary-color);
+    background-color: var(--tertiary-color);
+    padding: 8px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+p{
+    display: inline;
+}
