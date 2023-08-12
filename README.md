@@ -14,7 +14,7 @@ Here are some quick stats about my github account!
 </a>
 </n>
 <a href="https://github.com/riyan-dcosta">
- <img height=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan-dcosta&show_icons=true&&theme=transparent&count_private=true&layout=compact&hide_title=true"/>l̥
+ <img height=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan-dcosta&show_icons=true&&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
 </a>
  
 
