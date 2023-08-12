@@ -3,18 +3,27 @@
 
 Here are some quick stats about my github account!
 
-[More About Me!](https://riyan-dcosta.github.io/riyan-dcosta/)
+<!-- [More About Me!](https://riyan-dcosta.github.io/riyan-dcosta/) -->
+
+<a href="https://riyan-dcosta.github.io/riyan-dcosta" target="_blank">
+More About Me!
+</a>
+
+<br>
 
 ![](https://komarev.com/ghpvc/?username=riyan-datalyca&style=flat&label=Views)
 
 <!-- [My GitHub stats](https://github-readme-stats.vercel.app/api?username=riyan-datalyca) -->
+<br>
 
 <a href="https://github.com/riyan-dcosta">
- <img height=400 src="https://github-readme-stats.vercel.app/api/?username=riyan-dcosta&&theme=transparent&count_private=true&hide_title=true"/>
+ <img width="100%" src="https://github-readme-stats.vercel.app/api/?username=riyan-dcosta&&theme=transparent&count_private=true&hide_title=true"/>
 </a>
-</n>
+
+<br>
+
 <a href="https://github.com/riyan-dcosta">
- <img height=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan-dcosta&show_icons=true&&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
+ <img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan-dcosta&show_icons=true&&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
 </a>
  
 
