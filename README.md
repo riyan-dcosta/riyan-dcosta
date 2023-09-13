@@ -20,6 +20,6 @@ More About Me!
 <br>
 
 <a href="https://github.com/riyan-dcosta">
- <img width="100%"  src="https://github-readme-stats-rouge-six-82.vercel.app/api/top-langs/?username=riyan-dcosta&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
+ <img width="100%"  src="https://readme-stats-liart-two.vercel.app/api/top-langs/?username=riyan-dcosta&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
 </a>
  
