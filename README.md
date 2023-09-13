@@ -17,6 +17,12 @@ More About Me!
  <img width="100%" src="https://readme-stats-riyan-dcosta.vercel.app/api/?username=riyan-dcosta&&theme=transparent&hide_title=true&hide=stars&show_icons=true"/>
 </a>
 
+
+<br>
+<a href="https://github.com/riyan-dcosta">
+ <img width="100%" src="https://readme-stats-liart-two.vercel.app/api/?username=riyan-dcosta&&theme=transparent&hide_title=true&hide=stars&show_icons=true"/>
+</a>
+
 <br>
 
 <a href="https://github.com/riyan-dcosta">
