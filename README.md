@@ -14,7 +14,7 @@ More About Me!
 <br>
 
 <a href="https://github.com/riyan-dcosta">
- <img width="100%" src="https://readme-stats-liart-two.vercel.app/api/?username=riyan-dcosta&&theme=transparent&hide_title=true&hide=stars,contribs&show_icons=true"/>
+ <img width="100%" src="https://readme-stats-riyan-dcosta.vercel.app/api/?username=riyan-dcosta&&theme=transparent&hide_title=true&hide=stars,contribs&show_icons=true"/>
 </a>
 
 <br>
