@@ -1,0 +1,37 @@
+/* Need to get purple as border and font color with rgb */
+
+ul.skill-container {
+  border: 2px solid #df1aff;
+  border-radius: 0 0 1em 0;
+  padding: 0.5em;
+  display: flex;
+  font-family: Verdana;
+}
+
+li.skill-box {
+  padding: 0.5em;
+  margin: 0.5em;
+  display: flex;
+  background-color: #df1aff;
+  border-radius: 8px;
+  height: 30px;
+  align-items: center;
+}
+
+label.skill-label {
+  margin: 0.5em;
+}
+
+label {
+  /* background-color: red; */
+}
+
+img {
+  /* background-color: blue; */
+}
+
+.open-in-new-window {
+  background-image: url(/w/skins/Vector/resources/common/images/link-external-small-ltr-progressive.svg?30a3a);
+  background-position: center right;
+  background-repeat: no-repeat;
+}
