@@ -56,3 +56,6 @@ More About Me!
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
 <img width="100%"  src="https://readme-stats-liart-two.vercel.app/api/top-langs/?username=riyan-dcosta&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
 </a>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats2-five.vercel.app?user=Riyan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
