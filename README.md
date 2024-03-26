@@ -49,7 +49,7 @@ More About Me!
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats" >
 <!-- https://github-readme-stats-puce-pi-13.vercel.app/ -->
-<img width="100%" src="https://github-readme-stats-puce-pi-13.vercel.app/api/?username=riyan-dcosta&&theme=transparent&hide_title=true&hide=stars&show_icons=true"/>
+<img width="100%" src="https://github-readme-stats-puce-pi-13.vercel.app/api/?username=riyan-dcosta&&theme=transparent&hide_title=true&hide=stars&show_icons=true&include_all_commits=true"/>
 </a>
 
 <br>
