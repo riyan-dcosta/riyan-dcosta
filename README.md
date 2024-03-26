@@ -49,13 +49,13 @@ More About Me!
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats" >
 <!-- https://github-readme-stats-puce-pi-13.vercel.app/ -->
-<img width="100%" src="https://github-readme-stats-puce-pi-13.vercel.app/api/?username=riyan-dcosta&&theme=transparent&hide_title=true&hide=stars&show_icons=true&include_all_commits=true"/>
+<img width="100%" style="max-height:300;" src="https://github-readme-stats-puce-pi-13.vercel.app/api/?username=riyan-dcosta&&theme=transparent&hide_title=true&hide=stars&show_icons=true&include_all_commits=true"/>
 </a>
 
 <br>
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-<img width="100%"  src="https://github-readme-stats-puce-pi-13.vercel.app/api/top-langs/?username=riyan-dcosta&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
+<img width="100%" style="max-height:300;" align=center src="https://github-readme-stats-puce-pi-13.vercel.app/api/top-langs/?username=riyan-dcosta&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
 </a>
 
 
@@ -63,6 +63,7 @@ More About Me!
 <!-- https://github-readme-streak-stats-theta-mauve.vercel.app/ -->
 <a href="https://git.io/streak-stats">
 <img 
+      style="max-height:300;"
       src="https://streak-stats.demolab.com?user=riyan-dcosta&theme=transparent&hide_border=true&mode=weekly&ring=EB5454&fire=EB9A40" 
       alt="GitHub Streak" />
 </a>
