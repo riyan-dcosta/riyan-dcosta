@@ -58,5 +58,12 @@ More About Me!
 <img width="100%"  src="https://github-readme-stats-puce-pi-13.vercel.app/api/top-langs/?username=riyan-dcosta&theme=transparent&count_private=true&layout=compact&hide_title=true"/>
 </a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats2-five.vercel.app?user=Riyan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
+<!-- https://github-readme-streak-stats-theta-mauve.vercel.app/ -->
+<a href="https://git.io/streak-stats">
+<img 
+      src="https://github-readme-streak-stats-theta-mauve.vercel.app/?user=Riyan&theme=dark&hide_border=true" 
+      alt="GitHub Streak" />
+</a>
 
