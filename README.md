@@ -64,6 +64,7 @@ More About Me!
 <a href="https://git.io/streak-stats">
 <img 
       style="max-height:200;"
+      width="100%"
       align=center
       src="https://streak-stats.demolab.com?user=riyan-dcosta&theme=transparent&hide_border=true&mode=weekly&ring=EB5454&fire=EB9A40" 
       alt="GitHub Streak" />
