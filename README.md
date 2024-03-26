@@ -63,7 +63,7 @@ More About Me!
 <!-- https://github-readme-streak-stats-theta-mauve.vercel.app/ -->
 <a href="https://git.io/streak-stats">
 <img 
-      src="https://github-readme-streak-stats-theta-mauve.vercel.app/?user=Riyan&theme=dark&hide_border=true" 
+      src="https://streak-stats.demolab.com?user=riyan-dcosta&theme=transparent&hide_border=true&mode=weekly&ring=EB5454&fire=EB9A40" 
       alt="GitHub Streak" />
 </a>
 
